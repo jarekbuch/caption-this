@@ -1,4 +1,5 @@
 # GitHub for Developers
+#edit by Jarek from UI
 
 - Class Date: THIS-DATE
 - Facilitator: @TEACHER-HANDLE
